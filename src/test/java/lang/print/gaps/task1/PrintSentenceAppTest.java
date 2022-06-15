@@ -11,6 +11,6 @@ class PrintSentenceAppTest extends BaseIOTest {
     void mainPrintSentence() {
         PrintSentenceApp.main(null);
 
-        assertEquals("This is my first java program\n", updateLineSpliterators(outContent.toString()));
+        assertEquals("This is my first Java program\n", updateLineSpliterators(outContent.toString()));
     }
 }
