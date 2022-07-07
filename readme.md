@@ -26,7 +26,7 @@ For that use the following code snippet (each word should begin with a new line)
     }
 
 #### 3) Print sentence.
-Create main method and make console output: "This is my first java program". Create java program that will write to
+Create main method and make console output: "This is my first Java program". Create java program that will write to
 console:
 This is my first Java program
 
