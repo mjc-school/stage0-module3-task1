@@ -47,9 +47,10 @@ Do that inside of a code snippet here (each word should begin with a new line):
     }
 
 #### 5) Update class.
-Update this class to make an output: "I'm updated" + "\n" + "can be compiled. And can write to console"
+ Update this class to make an output: 
 
-The code to be updated is inside of a code snippet (each word should begin with a new line):
+"I'm updated  
+can be compiled. And can write to console"
 
 
     public class UpdatedApp {
