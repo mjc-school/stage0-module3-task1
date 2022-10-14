@@ -30,7 +30,7 @@ Create main method and make console output: "This is my first Java program". Cre
 console:
 This is my first Java program
 
-For that use the following code snippet (each word should begin with a new line):
+For that use the following code snippet:
 
     public class PrintSentenceApp {
     }
