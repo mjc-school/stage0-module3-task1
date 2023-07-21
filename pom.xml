@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.epam</groupId>
-    <artifactId>java.syntax.task1</artifactId>
+    <groupId>school.mjc</groupId>
+    <artifactId>stage0.module3.syntax.task1</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -29,7 +29,7 @@
         <dependency>
             <groupId>com.github.mjc-school</groupId>
             <artifactId>parser-shared</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.2</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine -->
         <dependency>
